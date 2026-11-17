@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Kumkum",
+      "hasCanvas": false,
+      "bodyTextLen": 473,
+      "bodyTextHash": "07b1a0d2d2178ed9faf60e12aec70221d44c9630e002d9f9faff6cac52a314a5",
+      "bodyTextPrefix": "Kumkum Enter A household register The stars, the city, and a nam",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Kumkum",
+      "hasCanvas": false,
+      "bodyTextLen": 473,
+      "bodyTextHash": "07b1a0d2d2178ed9faf60e12aec70221d44c9630e002d9f9faff6cac52a314a5",
+      "bodyTextPrefix": "Kumkum Enter A household register The stars, the city, and a nam",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

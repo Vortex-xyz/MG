@@ -25,7 +25,7 @@ function Hero() {
             The stars, the city, and a name.
           </h1>
           <p className="max-w-xl text-base text-stone">
-            Kumkum keeps a page for each person. Caste, rashi, and nakshatra are open on the
+            Sri Mangalam keeps a page for each person. Caste, rashi, and nakshatra are open on the
             register. A photograph stays veiled until someone asks, through a circle membership, to see it.
           </p>
           <div className="flex flex-wrap items-center gap-3">

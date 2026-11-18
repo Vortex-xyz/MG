@@ -7,7 +7,7 @@ import { Shell } from "@/components/shell";
 import { Button, Field, Spinner, TextInput, buttonVariants } from "@/components/ui";
 
 export const Route = createFileRoute("/login")({
-  head: () => ({ meta: [{ title: "Enter · Kumkum" }] }),
+  head: () => ({ meta: [{ title: "Enter · Sri Mangalam" }] }),
   component: LoginPage,
 });
 

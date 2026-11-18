@@ -8,7 +8,7 @@ import { PanelSkeleton, Shell, unauthorized } from "@/components/shell";
 import { Button, buttonVariants } from "@/components/ui";
 
 export const Route = createFileRoute("/circle")({
-  head: () => ({ meta: [{ title: "Circle · Kumkum" }] }),
+  head: () => ({ meta: [{ title: "Circle · Sri Mangalam" }] }),
   component: CirclePage,
 });
 

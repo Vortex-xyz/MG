@@ -25,7 +25,7 @@ export function Shell({
         {children}
       </main>
       <footer className="mx-auto flex w-full max-w-6xl items-center justify-between gap-4 px-4 py-8 text-sm text-mist sm:px-6">
-        <span className="font-display text-lg text-stone">Kumkum</span>
+        <span className="font-display text-lg text-stone">Sri Mangalam</span>
         <Link to="/privacy" className="underline-offset-4 hover:text-ink hover:underline">
           Privacy
         </Link>
@@ -58,9 +58,9 @@ function SiteHeader() {
   return (
     <header className="border-b border-line">
       <div className="mx-auto flex w-full max-w-6xl flex-wrap items-center gap-x-5 gap-y-3 px-4 py-3 sm:px-6">
-        <Link to="/" className="inline-flex items-center gap-2 text-ink">
+        <Link to="/" className="inline-flex shrink-0 items-center gap-2 text-ink">
           <span className="inline-block size-2 bg-paper" aria-hidden />
-          <span className="font-display text-2xl leading-none">Kumkum</span>
+          <span className="font-display text-xl leading-none sm:text-2xl">Sri Mangalam</span>
         </Link>
         {user ? (
           <nav className="flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-stone">

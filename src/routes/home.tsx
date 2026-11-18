@@ -9,7 +9,7 @@ import { PanelSkeleton, Shell, unauthorized } from "@/components/shell";
 import { Button, ProfileCard, SelectInput, TextInput } from "@/components/ui";
 
 export const Route = createFileRoute("/home")({
-  head: () => ({ meta: [{ title: "Register · Kumkum" }] }),
+  head: () => ({ meta: [{ title: "Register · Sri Mangalam" }] }),
   component: HomePage,
 });
 

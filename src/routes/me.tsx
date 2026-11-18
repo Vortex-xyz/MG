@@ -9,7 +9,7 @@ import { PanelSkeleton, Shell, unauthorized } from "@/components/shell";
 import { PhotoFrame } from "@/components/ui";
 
 export const Route = createFileRoute("/me")({
-  head: () => ({ meta: [{ title: "Your page · Kumkum" }] }),
+  head: () => ({ meta: [{ title: "Your page · Sri Mangalam" }] }),
   component: MePage,
 });
 

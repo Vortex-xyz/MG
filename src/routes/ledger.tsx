@@ -9,7 +9,7 @@ import { Button, FactList, JatakaChart, PhotoFrame, buttonVariants } from "@/com
 import { genderLabel } from "@/lib/matrimony/constants";
 
 export const Route = createFileRoute("/ledger")({
-  head: () => ({ meta: [{ title: "Ledger · Kumkum" }] }),
+  head: () => ({ meta: [{ title: "Ledger · Sri Mangalam" }] }),
   component: LedgerPage,
 });
 

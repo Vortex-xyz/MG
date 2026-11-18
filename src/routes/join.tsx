@@ -8,7 +8,7 @@ import { ProfileForm } from "@/components/profile-form";
 import { PanelSkeleton, Shell, unauthorized } from "@/components/shell";
 
 export const Route = createFileRoute("/join")({
-  head: () => ({ meta: [{ title: "Your page · Kumkum" }] }),
+  head: () => ({ meta: [{ title: "Your page · Sri Mangalam" }] }),
   component: JoinPage,
 });
 

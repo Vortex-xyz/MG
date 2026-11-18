@@ -30,7 +30,7 @@ const GROUNDS = ["#1a1412", "#14181a", "#1c1614", "#121410", "#181410", "#151311
 const HAIRS = ["#1a120e", "#24180f", "#120e0c", "#2a2118"];
 
 export function Portrait({ seed, label }: { seed: string; label: string }) {
-  const h = hash(seed || "kumkum");
+  const h = hash(seed || "sri-mangalam");
   const skin = pick(SKINS, h);
   const cloth = pick(CLOTHS, h >>> 3);
   const ground = pick(GROUNDS, h >>> 6);

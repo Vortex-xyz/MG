@@ -8,8 +8,8 @@ export const Route = createRootRoute({
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Kumkum" },
-      { name: "description", content: "Kumkum is a private matrimony register. Photographs stay veiled." },
+      { title: "Sri Mangalam" },
+      { name: "description", content: "Sri Mangalam is a private matrimony register. Photographs stay veiled." },
       { name: "theme-color", content: "#f7f3ec" },
     ],
     links: [

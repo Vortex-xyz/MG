@@ -9,7 +9,7 @@ import { PanelSkeleton, Shell, unauthorized } from "@/components/shell";
 import { FactList, JatakaChart, PhotoFrame, buttonVariants } from "@/components/ui";
 
 export const Route = createFileRoute("/people/$id")({
-  head: () => ({ meta: [{ title: "A page · Kumkum" }] }),
+  head: () => ({ meta: [{ title: "A page · Sri Mangalam" }] }),
   component: PersonPage,
 });
 

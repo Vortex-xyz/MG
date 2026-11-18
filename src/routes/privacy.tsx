@@ -9,7 +9,7 @@ import { Button, Field, TextInput } from "@/components/ui";
 import { cn } from "@/lib/utils";
 
 export const Route = createFileRoute("/privacy")({
-  head: () => ({ meta: [{ title: "Privacy · Kumkum" }] }),
+  head: () => ({ meta: [{ title: "Privacy · Sri Mangalam" }] }),
   component: PrivacyPage,
 });
 
@@ -44,12 +44,12 @@ function PrivacyPage() {
       <article className="flex flex-col gap-8">
         <header className="flex flex-col gap-2">
           <h1 className="font-display text-5xl text-ink">Privacy</h1>
-          <p className="text-sm text-stone">How a page on Kumkum is kept, and who can read it.</p>
+          <p className="text-sm text-stone">How a page on Sri Mangalam is kept, and who can read it.</p>
         </header>
         <section className="flex flex-col gap-3">
           <h2 className="font-display text-3xl text-ink">What is stored</h2>
           <p className="text-sm text-stone">
-            An account holds an email and a session. A page holds the name, gender, age, city, state, caste, rashi, nakshatra, education, work, and any jataka note, chart photo or PDF, or bio you choose to add. The portrait is a study you pick. Kumkum does not ask for a street address.
+            An account holds an email and a session. A page holds the name, gender, age, city, state, caste, rashi, nakshatra, education, work, and any jataka note, chart photo or PDF, or bio you choose to add. The portrait is a study you pick. Sri Mangalam does not ask for a street address.
           </p>
         </section>
         <section className="flex flex-col gap-3">
